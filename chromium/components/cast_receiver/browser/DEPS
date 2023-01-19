@@ -1,6 +1,0 @@
-include_rules = [
-  "+content/public/browser",
-  "+media",
-  "+net/base",
-  "+ui/gfx/geometry/rect.h",
-]
